@@ -10,10 +10,9 @@ you can find the saliency maps on DUTS-TE、ECSSD、HKU-IS、DUT-OMRON and PASCA
 We use the code provided by this [repo.](https://github.com/Mehrdad-Noori/Saliency-Evaluation-Toolbox) to calculate the metrics
 
 ## Results
-The effect of ACFFNet on 5 benchmark datasets is as follows：
+The effect of R2Net on 5 benchmark datasets is as follows, we achieve a SOTA results than any existing SOD methods.
 
 ![avatar](images/result.png)
-
 
 ![avatar](images/result2.png)
 
