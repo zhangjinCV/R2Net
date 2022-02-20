@@ -12,8 +12,8 @@ We use the code provided by this [repo.](https://github.com/Mehrdad-Noori/Salien
 ## Results
 The effect of R^2Net on 5 benchmark datasets is as follows, we achieve a SOTA results than any existing SOD methods.
 
-![avatar](images/result.png)
+![avatar](images/results.png)
 
-![avatar](images/result2.png)
+![avatar](images/results2.png)
 
-![avatar](images/result3.png)
+![avatar](images/results3.png)
