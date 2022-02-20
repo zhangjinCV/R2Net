@@ -12,7 +12,9 @@ The train.py file contains the training code, If you want to retrain, please dow
 
 if you want to test, just modify the path of the saliency maps, and I think you have your own testing code. So I provide our saliency maps additionally.
 
-We use the code provided by this [repo.](https://github.com/Mehrdad-Noori/Saliency-Evaluation-Toolbox) to calculate the metrics
+We use the code provided by this [repo.](https://github.com/Mehrdad-Noori/Saliency-Evaluation-Toolbox) to calculate the metrics.
+
+We choose PaddlePaddle as the framework, in particular, PaddlePaddle provides a good learning environment and hardware facilities. If you want the PyTorch version of the code, it will be available right away.
 
 ## Results
 The effect of R^2Net on 5 benchmark datasets is as follows, we achieve the SOTA results than any existing SOD methods.
