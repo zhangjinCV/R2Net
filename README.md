@@ -8,7 +8,7 @@ The paper will come soon.
 you can find the saliency maps on DUTS-TE、ECSSD、HKU-IS、DUT-OMRON and PASCAL-S datasets and the weight file from Google Driver link (coming soon) and the Baidu online disk link (coming soon)
 
 ## Codes
-The train.py file contains the training code, If you want to retrain, please download the training set and test set from [here] (https://aistudio.baidu.com/aistudio/datasetdetail/97810), and unzip the file, then modify the "train_dataset" parameter to your own path.
+The train.py file contains the training code, If you want to retrain, please download the training set and test set from [here](https://aistudio.baidu.com/aistudio/datasetdetail/97810), and unzip the file, then modify the "train_dataset" parameter to your own path.
 
 if you want to test, just modify the path of the saliency maps, and I think you have your own testing code. So I provide our saliency maps additionally.
 
