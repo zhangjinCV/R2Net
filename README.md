@@ -5,7 +5,7 @@ This repo. is an implementation of R2Net, which is accepted for in Image and Vis
 The paper is [here](https://www.sciencedirect.com/science/article/pii/S026288562200052X?dgcid=author).
 
 ## Saliency maps
-you can find the saliency maps on DUTS-TE、ECSSD、HKU-IS、DUT-OMRON and PASCAL-S datasets and the weight file from Google Driver link (coming soon) and the Baidu online disk link (If you want, give a issue to remind me to update the saliency maps, i am a little lazy now.)
+you can find the saliency maps on DUTS-TE、ECSSD、HKU-IS、DUT-OMRON and PASCAL-S datasets and the weight file from Google Driver [link](https://drive.google.com/drive/folders/1f4vewbYh368nHQR0GdskM9ZJ9fp3Pak5?usp=sharing) and the Baidu online disk [link](链接：https://pan.baidu.com/s/1cf5CgN0dStUaCgFTmMaOag?pwd=RRNe 提取码：RRNe --来自百度网盘超级会员V3的分享) (Code:RRNe)
 
 ## Codes
 The train.py file contains the training code, If you want to retrain, please download the training set and test set from [here](https://aistudio.baidu.com/aistudio/datasetdetail/97810), and unzip the file, then modify the "train_dataset" parameter to your own path.
